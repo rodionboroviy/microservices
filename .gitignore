@@ -1,0 +1,18 @@
+[Bb]in
+[Dd]ebug*/
+obj/
+.vs/
+
+*.log
+*.suo
+*.user
+*.userprefs
+*.vspscc
+*.vssscc
+
+# compressed archives
+*.rar
+*.zip
+
+# local dotnet core settings file
+appsettings.json
